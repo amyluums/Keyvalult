@@ -1,7 +1,7 @@
 # KeyVault
 ARM Template for deploying lab for AppService Config Key Vault Lab #2
 
-[![Deploy To Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Famyluums%2FKeyVault%2Fmain%2Fazuredeploy.json)
+[![Deploy To Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Famyluums%2FKeyvault%2Fmain%2Fazuredeploy.json)
 
 
 ## This arm deployment will:
